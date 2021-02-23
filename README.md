@@ -3,3 +3,4 @@ Development of an interactive application prototype following a user-centred des
 
 
 Developed with [Pedro Gonçalves](https://github.com/PedroG-8) and [Pedro Silva](https://github.com/pedromsilva99) in 2020
+
